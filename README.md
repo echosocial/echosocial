@@ -1,4 +1,3 @@
-![image](https://github.com/echosocial/echosocial/assets/67803641/218328bf-9d27-4b3d-beac-2939bf6ceaf6)
 Welcome to the public repository of Echo.
 
 Currently, Echo, a social media platform, is in its early stages of development. Follow us to see new developments in our platform!
